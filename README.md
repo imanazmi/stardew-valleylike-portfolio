@@ -1,5 +1,6 @@
 # Name of my project
-Description of my project: this mini project will show what i have created for a simple desktop application
+Description of my project: i like calm games like stardew valley and i like to build things so i decided to combine both and display it onto my portfolio.
+ 
 Link to project: NA
 Image preview : NA
 
