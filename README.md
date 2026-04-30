@@ -5,10 +5,12 @@ Link to project: NA
 Image preview : NA
 
 # Project Status
+Currently creating.... busy...
 
 # Usage
 
 # How it's made
+Using Electron, HTML, CSS, JavaScript, etc
 
 # Installation
 
